@@ -1,11 +1,11 @@
 # Kapass - Générateur de Mots de Passe
 
-**Kapass** est une application simple et sécurisée pour générer des mots de passe aléatoires. Grâce à une interface intuitive et moderne en mode sombre, l'application permet de personnaliser facilement la longueur du mot de passe, tout en offrant la possibilité de le copier directement dans le presse-papier. Idéale pour sécuriser vos comptes en ligne !
+**Kapass** est une application simple et sécurisée pour générer des mots de passe aléatoires. Grâce à une interface simple et moderne, cela permet de personnaliser facilement la longueur du mot de passe, tout en offrant la possibilité de le copier directement.
 
 ---
 
 ### 📝 **Description**
-Kapass vous aide à générer des mots de passe robustes, en utilisant une combinaison de lettres, chiffres et symboles spéciaux. Vous pouvez ajuster la longueur du mot de passe selon vos besoins via un curseur interactif. 
+Kapass vous aide à générer des mots de passe robustes, en utilisant une combinaison de lettres, chiffres et symboles spéciaux. Vous pouvez ajuster la longueur du mot de passe selon vos besoins via un curseur.
 
 ---
 
@@ -33,7 +33,7 @@ Pour faire fonctionner **Kapass**, vous aurez besoin de :
 
 ### 💻 **Fonctionnalités**
 - Génération de mots de passe sécurisés avec des lettres, chiffres et symboles spéciaux.
-- Interface moderne et responsive en mode sombre.
+- Interface moderne et responsive.
 - Option pour copier le mot de passe directement dans le presse-papier.
 
 ---
