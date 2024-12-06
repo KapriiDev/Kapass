@@ -65,8 +65,8 @@ copy_button = ctk.CTkButton(
     frame, 
     width=30, 
     height=30, 
-    text="📋",  # Emoji pour représenter le presse-papier
-    fg_color="#05b2dc",  # Bleu clair pour le bouton
+    text="📋", 
+    fg_color="#05b2dc",  
     hover_color="#0392a6", 
     command=copy_to_clipboard
 )
